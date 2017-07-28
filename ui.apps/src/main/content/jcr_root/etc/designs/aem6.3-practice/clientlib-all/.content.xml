@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:ClientLibraryFolder"
+    categories="[aem6.3-practice.all]"
+    embed="[aem6.3-practice.site,aem6.3-practice.page,aem6.3-practice.topnav,aem6.3-practice.colctrl,aem6.3-practice.textimage]"/>
